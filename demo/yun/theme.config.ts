@@ -1,9 +1,9 @@
 import { defineThemeConfig } from 'valaxy-theme-yun'
 
 export default defineThemeConfig({
-  // colors: {
-  //   primary: 'red',
-  // },
+   colors: {
+     primary: '#dbe2f9',
+   },
   // bg_image: {},
 
   banner: {
@@ -39,7 +39,7 @@ export default defineThemeConfig({
   ],
 
   footer: {
-    since: 2016,
+    since: 2021,
     beian: {
       enable: false,
       icp: '苏ICP备17038157号',
