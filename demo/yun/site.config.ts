@@ -10,7 +10,7 @@ export default defineSiteConfig({
   timezone: 'Asia/Shanghai',
   url: 'https://blog.biltune.top/',
   author: {
-    avatar: 'https://yunji.blog/icons.webp',
+    avatar: 'https://sh.jsdmirror.com/gh/future382/img@main/blog/icons.webp',
     name: 'Biltune',
   },
   subtitle:'生而热忱，终也欢洽',
