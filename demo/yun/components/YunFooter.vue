@@ -16,8 +16,5 @@ useScriptTag('//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js')
         <span>本站已运行</span>
       </template>
     </VCLiveTime>
-    <div><a href="https://www.travellings.cn/go.html" target="_blank" rel="noopener" title="开往-友链接力"></div>
-    <div><img src="https://www.travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120"></div>
-</a>
   </YunFooter>
 </template>
