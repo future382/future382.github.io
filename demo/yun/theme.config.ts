@@ -2,9 +2,9 @@ import { defineThemeConfig } from 'valaxy-theme-yun'
 
 export default defineThemeConfig({
    colors: {
-     primary: '#dbe2f9',
+     primary: '#7E79E2',
    },
-  // bg_image: {},
+   bg_image: {"https://sh.jsdmirror.com/gh/future382/img@main/08206a3879f9467f93eb18e279dd2642.webp"},
 
   banner: {
     enable: true,
