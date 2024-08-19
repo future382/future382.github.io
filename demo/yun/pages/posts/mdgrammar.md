@@ -10,6 +10,7 @@ tags:
 - 标准化
 title: Markdown 语法说明
 updated: '2024-06-09T20:04:57.539+08:00'
+cover: 'https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/2c720c1174fd41478e87980dddaf8aa0.webp'
 ---
 ## Markdown 语法说明
 

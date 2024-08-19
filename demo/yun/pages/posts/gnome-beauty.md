@@ -7,6 +7,7 @@ tags:
   - 美化
 categories:
   - 安利
+cover: 'https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/0f589a128b0648399145d02b36c86672.webp'
 ---
 
 美化是一件永恒的事情，人人生而爱美，换句话说，~~美即人世之尽头~~

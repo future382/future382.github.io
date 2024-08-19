@@ -1,6 +1,6 @@
 ---
 categories: []
-cover: ''
+cover: 'https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/1afcdb25fa1848c1a38a7d6c2d033df5.webp'
 date: '2023-03-19T14:09:18.534696+08:00'
 excerpt: 一个ChatGPT写的小故事（未完待续）
 tags:

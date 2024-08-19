@@ -6,6 +6,7 @@ tags:
     - 吐槽
     - 二次元
 categories: 教程
+cover: 'https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/6cd4aa9f71194d39a2e009a8e2899418.webp'
 ---
 
 ## 引入

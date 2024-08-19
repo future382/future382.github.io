@@ -6,6 +6,7 @@ excerpt: 转载人民日报的一段话，中考之前，谨此共勉
 tags: []
 title: 一言
 updated: '2024-06-05T23:18:55.054+08:00'
+cover: 'https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/5e233a14c9334a84a879795ee679d2c1.webp'
 ---
 <!--more-->
 

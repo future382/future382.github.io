@@ -10,6 +10,7 @@ tags:
 - English
 title: 恋爱二三事
 updated: '2024-05-26T11:46:51.911+08:00'
+cover: 'https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/01e32cc90dd34191a09a4f866dd6ab31.webp'
 ---
 ::: zh-CN
 

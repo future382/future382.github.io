@@ -6,6 +6,7 @@ tags:
     - 利器
     - 图片压缩算法
 categories: 工具
+cover: 'https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/2ee32cdf8a48400a8506f74e4e547d37.webp'
 ---
 
 

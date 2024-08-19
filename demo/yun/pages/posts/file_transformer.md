@@ -1,7 +1,7 @@
 ---
 categories:
 - 工具
-cover: ''
+cover: 'https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/00d1d8a848b34c8ca29fb3e7c89f1cd0.webp'
 date: 2023-7-07
 excerpt: 安利一下好用的文件传输平台
 tags:
