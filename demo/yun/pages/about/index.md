@@ -13,7 +13,7 @@ updated: 2024-6-24
 
 我的语言组织能力很不好（极差），写出来的话常常让人读起来摸不着头脑。基本没有啥能拿得出手的作品，**可能这个博客就是我最骄傲的作品了**。
 
-![这可不是我！](https://img.blog.kysolva.eu.org/about_me_1.webp)
+![这可不是我！](https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/blog/about_me_1.webp)
 
 ## 见字如面，很高兴能够在这里与你相遇。
 

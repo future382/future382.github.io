@@ -4,7 +4,11 @@ export default defineThemeConfig({
    colors: {
      primary: '#7E79E2',
    },
-    // bg_image: {'https://sh.jsdmirror.com/gh/future382/img@main/08206a3879f9467f93eb18e279dd2642.webp'},
+     bg_image: {
+        enable: true,
+        url: "https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/1686e9cab38e46abb370f15a7baacd10.webp",
+        dark: "https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/0494e945880511ebb6edd017c2d2eca2.webp",
+  },
 
   banner: {
     enable: true,
