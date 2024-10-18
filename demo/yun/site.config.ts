@@ -13,7 +13,7 @@ export default defineSiteConfig({
     avatar: 'https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/blog/icons.webp',
     name: 'Biltune',
   },
-  subtitle:'桑榆为晚 拧月如风',
+  subtitle:'桑榆未晚 柠月如风',
   description: '愿所有的美好都能如期而至',
   social: [
     {
