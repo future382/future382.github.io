@@ -13,8 +13,8 @@ export default defineSiteConfig({
     avatar: 'https://mirror.jsd.kysolva.eu.org/gh/future382/img@main/blog/icons.webp',
     name: 'Biltune',
   },
-  subtitle:'生而热忱，终也欢洽',
-  description: 'All at sea.',
+  subtitle:'桑榆为晚 拧月如风',
+  description: '愿所有的美好都能如期而至',
   social: [
     {
       name: 'RSS',
